@@ -1,9 +1,11 @@
-# edb
+# [edb](https://pkg.go.dev/github.com/RLOFLS/edb#section-readme)
 
 Package edb simple and convenient operation of database data table, structure mapping
 
 - now only supports MySQL
 - todo ...
+
+go get github.com/RLOFLS/edb
 
 ## usage
 
